@@ -18,6 +18,7 @@ public class MyRandom1 {
 	}
 	
 	// 取得  start 和 end  之间的值
+	// thisdf sakfjaskjik
 	public int nextBetween(int start, int end) {
 		int ret = start + rd.nextInt(end - start + 1);
 		return ret;
