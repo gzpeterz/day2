@@ -19,6 +19,9 @@ public class FieldGen {
 		list.add("уейо7");
 		list.add("уейо8");
 		list.add("уейо9");
+		
+		
+		
 	}
 	
 	public String getName() {
